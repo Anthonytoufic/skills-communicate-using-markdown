@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -20,6 +19,13 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+# This is my Header
+.[Link my Image.](https://th.bing.com/th/id/OIP.h4PldDcjn4yABmcl11TGIwHaIr?pid=ImgDet&rs=1)
+```javascript
+var first = 1;
+```
+- [x] Drink Water
+- [ ] Eat
 
 ## Step 1: Add headers
 
